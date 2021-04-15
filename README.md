@@ -1,7 +1,6 @@
 # Sunflower_samurai
 
 DOWNLOAD ONLY AS A ZIP FILE
-download as zip file 
 
 Keyboard controls:
 
